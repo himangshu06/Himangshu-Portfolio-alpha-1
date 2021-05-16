@@ -1,0 +1,82 @@
+body { text-align: center; } 
+#welcome { color: #FFFFFF; bottom: 0;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    display: table;
+    width: 100%;
+    height: 100%; z-index: 9;
+}
+#bio { font-family: 'Cinzel Decorative', cursive;
+    padding: 50px;
+    text-align: center;
+}
+h1 { font-size: 40px; font-family: sans-serif; font-weight: 300; }
+.line { height: 6px; background-color: #000;
+    width: 70px; margin: 8px auto; }
+#contact iframe { width: 100%;
+}
+.contact_1 h3 { display: inline; } .contact_1 a { text-shadow: none; } #videos iframe { width: 80%; } .my_nav_bar { position:sticky; top:0; z-index:99999 } input { background: grey; }
+
+#cool{
+    width: 200px;
+    height: 200px;
+}
+.cool{
+width: 200px;
+    height: 200px;
+}
+
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: cornflowerblue;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+.about-me-test{
+    font-size: 50px;
+}
+
+#video{ color: #FFFFFF; bottom: 0;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    display: table;
+    width: 100%;
+    height: 100%; z-index: 9;
+}
+#About{ color: #FFFFFF; bottom: 0;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    display: table;
+    width: 100%;
+    height: 100%; z-index: 9;
+}
+#work{ color: #FFFFFF; bottom: 0;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    display: table;
+    width: 100%;
+    height: 100%; z-index: 9;
+}
+.LT{
+width: 200px;
+height: 200px;
+    border-radius: 36px;
+}
